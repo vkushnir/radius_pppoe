@@ -1,0 +1,10 @@
+#
+# This is the master dictionary file, which references the
+# pre-defined dictionary files included with the server.
+#
+
+$INCLUDE  /usr/share/freeradius/dictionary
+
+# CISCO Attributes
+ATTRIBUTE Client-MAC-Address 3000 string
+ATTRIBUTE Parent-Session-Id  3001 string

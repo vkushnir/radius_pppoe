@@ -1,6 +1,6 @@
 # radius_pppoe
 AAA service for PPPoE Clients
-Docker image name **vkushnir/radius:pppoe**
+Docker image name **vkushnir/radiusd:pppoe**
 
 ## Environment variables for container
 
